@@ -21,18 +21,58 @@ Evently is a Flutter mobile application designed to help users discover, organiz
 * **Firebase Authentication** – User registration and login.
 * **Cloud Firestore** – Cloud database for storing and retrieving events.
 * **Material Design** – Building a consistent and responsive user interface.
-
 ## 📱 App Screenshots
 
-Add screenshots of the application here to showcase its main screens.
+Explore the Evently app interface and its main features.
 
-<!-- Add your screenshots below -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/d6b716c8-459c-4109-a680-cbe199849500" width="220" alt="Evently Screenshot 1"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/124665e8-296d-4a27-a05a-96b455cdbfb5" width="220" alt="Evently Screenshot 2"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/bb6591aa-7aec-4f51-89fe-fc3a9948a283" width="220" alt="Evently Screenshot 3"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/c668bae7-548f-4c53-9af5-11cc8e45b362" width="220" alt="Evently Screenshot 4"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/9abf7b5d-a339-44cd-89f8-3f7c1a90273b" width="220" alt="Evently Screenshot 5"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/8bb1dc53-9d06-4b6f-828a-1b545f5bb3a0" width="220" alt="Evently Screenshot 6"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/fe61df44-3871-49cd-be36-e52355cb6a96" width="220" alt="Evently Screenshot 7"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/31fb29e8-fb2a-44c1-9052-3c7202077ea5" width="220" alt="Evently Screenshot 8"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/8e4f6917-27bc-4027-bf37-f54468669341" width="220" alt="Evently Screenshot 9"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/74817d52-4dc6-4749-97ff-afab5fdfc18b" width="220" alt="Evently Screenshot 10"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/user-attachments/assets/36465bfa-94de-47b5-b077-e026919973dd" width="220" alt="Evently Screenshot 11"/>
+    </td>
+  </tr>
+</table>
 
-<!--
-![Home Screen](screenshots/home.png)
-![Add Event Screen](screenshots/add_event.png)
-![Event Details Screen](screenshots/event_details.png)
--->
 
 ## 🚀 Getting Started
 
