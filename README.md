@@ -126,12 +126,7 @@ Through developing Evently, I practiced:
 * Navigating between screens and passing data between widgets.
 * Structuring event data using Dart models.
 
-## 👩‍💻 Developer
 
-**Rawda Mohamed**
-
-* GitHub: [Rawda11-Mohamed](https://github.com/Rawda11-Mohamed)
-* Project Repository: [Evently](https://github.com/Rawda11-Mohamed/evently)
 
 ---
 
